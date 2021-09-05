@@ -1,0 +1,5 @@
+d8b64696-607d-43b3-8bd8-82fab42dca8c|Christmas|25/12
+593c349a-848b-4ac1-a5e3-854e3509ae65|New Years|1/1
+a042b415-125b-4915-ab2d-6b8d38387edb|Valentine|14/2
+3fdf4233-0292-4d51-892d-fc9f1373cd57|Halloween|31/10
+f2dc4620-c019-4a69-b621-261f7b594b5d|Black Friday|29/11

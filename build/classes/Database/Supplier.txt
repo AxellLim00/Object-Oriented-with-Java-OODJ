@@ -1,0 +1,10 @@
+fee29049-f8a1-483e-98f3-c352fa1a56f3|Reynolds Electronics|reynolds@electronic.com|01023562
+90c4a790-6ea3-45a9-95de-a4ad1b7be4cf|Hobby Engineering|HE@electronic.com|01124354557
+b66a87ff-038d-461f-acea-088205a7a06c|All Electronics|allelec@electronic.com|0112309712
+430f68d5-bb2f-4a9d-80e6-0e8b325b54d1|BG Micro|BGM@electronic.com|014567892
+71e983ba-4950-4d66-9d81-eb5d6032f81d|Jameco Electronics|Jamesco@electronic.com|0135684326
+588a0277-226b-4454-93e3-f395123d040d|DigiKey|Digi@electronic.com|012348923
+e49d1eee-cc53-44e1-a0c1-40ce6cf7b24f|Mouser Electronics|ME@electronic.com|01214684342
+94d00af1-3a8a-452c-b7cb-0578ec612f11|Radioshack|RadioS@electronic.com|0168456346
+99871acf-7f2f-4eb2-9019-ad185090206f|Fry's Electronics|Fry@electronic.com|0190126236
+3ace08d7-9a5f-4c86-82db-83c96827cf69|Goldmine Electronics|Goldmine@electronic.com|01601342380

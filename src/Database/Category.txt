@@ -1,0 +1,10 @@
+a69e38c8-7068-4fff-a660-c83f4b6be598|Smart|Devices that has lots of functionality
+37c48565-d597-4675-ab3b-e571ccc99964|Beauty|Devices that enchance the looks
+852c478b-3f58-4fa0-a9a4-d95f47473c92|Time|Devices that measure or tell the time
+460ce243-2fd6-4b34-826c-ce9df40a11c6|Home Appliance|Devices that is usually found at homes
+6f83dddc-ffb8-4a79-a6f5-5ec97516daad|Video & Photo|Devices that takes video and/or photo
+e8e71a01-e19e-4b79-994c-c28145655d7e|Audio|Devices that records or produce audio
+e9831d53-a4a7-48fd-897d-378bed72f31e|Security|Devices that enchance safety
+6c7d63e4-44b1-4df9-93bb-ba4c65ac2000|Wearable Tech|Devices that can be used as accessories
+b5847543-808c-4725-aa4e-ebcd9856945f|Video Games & Accessories|Devices that is used with Video games
+763478d9-fa1b-4722-8b2f-11a95a185896|Computer & Accessories|Devices that defined as Computers and its accessories
